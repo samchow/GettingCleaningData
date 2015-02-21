@@ -11,3 +11,7 @@ If you run from R studio, make sure you setwd() to the directory that contains t
 
 ### Running from command line
 Change to the directory where the *run_analysis.R* script along with the meta-data files and train/data directories. From the command line, invoke  **Rscript run_analysis.R**
+
+
+## Description of output
+For an explanation of the columns in the output (tiny_data.txt), the file CodeBook.md. The units are shown in parenthesis.
